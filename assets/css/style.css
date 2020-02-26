@@ -1,0 +1,15 @@
+html {
+      position: relative;
+    }
+    .container {
+      margin: 100px auto;
+      padding: 10px 40px 30px 40px;
+      border-radius: 15px;
+    }
+
+    table {
+      border: 2px solid black;
+      border-radius: 5px;
+      border-collapse: separate;
+      background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(28,15,255,1) 50%, rgba(0,212,255,1) 100%);
+    }
